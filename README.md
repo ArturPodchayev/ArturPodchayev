@@ -21,8 +21,8 @@
 - Flutter, React Native
 
 #### 🎨 Design & Editing:
-- Adobe Photoshop, Figma, Canva*
-- Adobe After Effects, DaVinci Resolve*
+- Adobe Photoshop, Figma, Canva
+- Adobe After Effects, DaVinci Resolve
 
 #### 🛠 DevOps & Tools:
 - Git, GitHub, Docker, Kubernetes

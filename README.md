@@ -4,7 +4,6 @@
 🎯 **Goal: Build awesome projects & master my skills**  
 
 ---
-
 ### 🛠️ Tech Stack:
 #### 🌐 Frontend:
 - HTML, CSS, JavaScript, TypeScript
@@ -47,6 +46,6 @@
 
 ### 📫 Contact Me:  
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Artur_IT_Developer)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/artur-podchayev-b11283321/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/artur-podchayev)) 
 
  

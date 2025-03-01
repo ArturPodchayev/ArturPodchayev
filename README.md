@@ -1,4 +1,4 @@
-# Hey, I'm Artur 👋  
+# **Hey, I'm Artur** 👋  
 
 🚀 **Developer | Passionate about C#, .NET, JS**  
 🎯 **Goal: Build awesome projects & master my skills**  

@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hey, I'm Artur 👋  
 
-<!--
-**ArturPodchayev/ArturPodchayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Developer | Passionate about C#, .NET, JS**  
+🎯 **Goal: Build awesome projects & master my skills**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack:
+#### 🌐 Frontend:
+- HTML, CSS, JavaScript, TypeScript
+- React, Next.js 
+- TailwindCSS, Bootstrap 
+
+#### ⚙️ Backend:
+- C#, ASP.NET Core, Node.js 
+- MySQL, PostgreSQL, MongoDB 
+
+#### 🎮 Game Development:
+- Unity (C#) 
+
+#### 📱 Mobile:
+- Flutter, React Native
+
+#### 🎨 Design & Editing:
+- Adobe Photoshop, Figma, Canva*
+- Adobe After Effects, DaVinci Resolve*
+
+#### 🛠 DevOps & Tools:
+- Git, GitHub, Docker, Kubernetes
+- Postman, Swagger, Figma
+
+#### 🧠 Machine Learning & Data Science:
+- Python, TensorFlow, OpenCV
+
+---
+
+### 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArturPodchayev&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturPodchayev&layout=compact&theme=dark)
+
+---
+
+### 📫 Contact Me:  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Artur_IT_Developer)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/artur-podchayev-b11283321/))  

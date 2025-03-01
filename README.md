@@ -36,8 +36,8 @@
 
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArturPodchayev&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturPodchayev&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArturPodchayev&show_icons=true&theme=dark&cache_seconds=86400)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturPodchayev&layout=compact&theme=dark&cache_seconds=86400)
 
 ---
 

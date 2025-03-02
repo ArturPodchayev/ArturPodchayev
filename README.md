@@ -35,7 +35,6 @@
 
 ### 📊 GitHub Stats:
 
-
 ![GitHub Stats](https://github-readme-stats-4ko1.vercel.app/api?username=ArturPodchayev&show_icons=true&theme=dark&count_private=true)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ArturPodchayev&theme=darkhub&no-bg=true&no-frame=true)
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=ArturPodchayev&theme=react-dark)

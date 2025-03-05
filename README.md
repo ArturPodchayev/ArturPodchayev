@@ -3,6 +3,9 @@
 🚀 **Developer | Passionate about C#, .NET, JS**  
 🎯 **Goal: Build awesome projects & master my skills**  
 
+![GitHub Metrics](https://github.com/ArturPodchayev/ArturPodchayev/blob/main/github-metrics.svg)
+
+
 ---
 ### 🛠️ Tech Stack:
 #### 🌐 Frontend:

@@ -7,7 +7,6 @@
 
 
 ---
-### 🛠️ Tech Stack:
 
 ## 🛠 Tech Stack:
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -20,15 +19,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🔗 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-podchayev-b11283321)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Artur_648/)
-[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
 
-
-
-
-
+### 🛠️ Tech Stack:
 #### 🌐 Frontend:
 - HTML, CSS, JavaScript, TypeScript
 - React, Next.js 
@@ -64,6 +56,13 @@
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=ArturPodchayev&theme=react-dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArturPodchayev&theme=dark)
 ![Top Langs](https://github-readme-stats-4ko1.vercel.app/api/top-langs/?username=ArturPodchayev&layout=compact&theme=radical&count_private=true&langs_count=8)
+
+
+
+## 🔗 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-podchayev-b11283321)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Artur_648/)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
 
 ---
 

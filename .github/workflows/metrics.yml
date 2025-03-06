@@ -1,8 +1,10 @@
 name: Metrics
 on:
   schedule: 
-    - cron: "0 0 * * *" # Обновляется каждый день в 00:00 UTC
-  workflow_dispatch: # Позволяет запустить вручную
+    - cron: "0 0 * * *" # Запуск каждый день в 00:00 UTC
+  workflow_dispatch: # Позволяет запускать вручную
+
+permissions: write-all  # ДАЁМ ПРАВА НА ЗАПИСЬ
 
 jobs:
   github-metrics:

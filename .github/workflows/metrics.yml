@@ -2,7 +2,7 @@ name: Metrics
 on:
   schedule: 
     - cron: "0 0 * * *" # Запуск каждый день в 00:00 UTC
-  workflow_dispatch: # Позволяет запускать вручную
+  workflow_dispatch: # Запуск вручную
 
 permissions: write-all  # ДАЁМ ПРАВА НА ЗАПИСЬ
 
@@ -16,18 +16,32 @@ jobs:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories, metadata
+          
+          # 🔥 ТОП репозиториев
+          plugin_repositories: yes
+          plugin_repositories_featured: your-repo-name, another-repo
+
+          # 📊 Используемые языки
           plugin_languages: yes
-          plugin_languages_details: percentage
-          plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 15
+          plugin_languages_details: percentage, lines
+          plugin_languages_threshold: 0%
+
+          # 🏆 GitHub Achievements (достижения)
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          
+          # 🔥 Последние активности
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 14
-          plugin_followup: yes
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_days: 30
-          plugin_isocalendar: yes
-          plugin_topics: yes
-          plugin_topics_mode: icons
-          plugin_topics_sort: stars
+
+          # 🚀 Самые звёздные проекты
+          plugin_stars: yes
+          plugin_stars_limit: 3
+
+          # 🎵 Spotify (если хочешь добавить музыку)
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_mode: recent
+          plugin_music_limit: 5

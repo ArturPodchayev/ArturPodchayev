@@ -1,5 +1,4 @@
-# **Hey, I'm Artur** 👋 
-![Приветствие](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey,+i+am+Artur!+Nice+to+meet+you!)
+![Приветствие](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey,+I+am+Artur!+Nice+to+meet+you!)
  
 
 🚀 **Developer | Passionate about C#, .NET, JS**  

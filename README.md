@@ -67,4 +67,11 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Artur_648/)
 
 
- 
+ ## 💖 Support Me  
+
+If you like my projects and want to support me:  
+
+- ⭐️ Star my repositories that you find interesting.  
+- 🍕 Buy me a coffee: [Buy Me a Pizza](https://buymeacoffee.com/arturpodchayev)  
+- 💬 Share my projects on social media.  
+

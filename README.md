@@ -1,4 +1,6 @@
-# **Hey, I'm Artur** 👋  
+# **Hey, I'm Artur** 👋 
+![Приветствие](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Привет,+я+Артур!+Добро+пожаловать+в+мой+профиль!)
+ 
 
 🚀 **Developer | Passionate about C#, .NET, JS**  
 🎯 **Goal: Build awesome projects & master my skills**  

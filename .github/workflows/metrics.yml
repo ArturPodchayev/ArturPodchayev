@@ -1,10 +1,10 @@
 name: Metrics
 on:
-  schedule: 
-    - cron: "0 0 * * *" # Запуск каждый день в 00:00 UTC
-  workflow_dispatch: # Запуск вручную
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
-permissions: write-all  # ДАЁМ ПРАВА НА ЗАПИСЬ
+permissions: write-all
 
 jobs:
   github-metrics:
@@ -24,6 +24,5 @@ jobs:
           plugin_music_limit: 5
           plugin_music_playlist_id: 2pPfRFvrdR38UO0LJix6uZ
 
-
-          # Передаем токен от Spotify
-          plugin_music_token: ${{ secrets.SPOTIFY_ACCESS_TOKEN }}
+          # Передаем токен Spotify
+          plugin_music_token: "${{ secrets.SPOTIFY_ACCESS_TOKEN }}"

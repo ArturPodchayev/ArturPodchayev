@@ -22,7 +22,7 @@ jobs:
           plugin_music_provider: spotify
           plugin_music_mode: playlist
           plugin_music_limit: 5
-          plugin_music_playlist_id: 2pPfRFvrdR38UO0LJix6uZ
+          plugin_music_playlist_id: "2pPfRFvrdR38UO0LJix6uZ"
 
-          # Передаем токен Spotify
-          plugin_music_token: "${{ secrets.SPOTIFY_ACCESS_TOKEN }}"
+          # 📢 ВАЖНО: Новый способ передачи токена
+          plugin_music_token: ${{ secrets.SPOTIFY_ACCESS_TOKEN }}

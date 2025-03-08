@@ -24,5 +24,6 @@ jobs:
           plugin_music_limit: 5
           plugin_music_playlist_id: 2pPfRFvrdR38UO0LJix6uZ
 
+
           # Передаем токен от Spotify
           plugin_music_token: ${{ secrets.SPOTIFY_ACCESS_TOKEN }}

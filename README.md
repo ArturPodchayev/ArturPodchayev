@@ -65,7 +65,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Artur_IT_Developer)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-podchayev-b11283321)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Artur_648/)
-[![Twitter](https://img.shields.io/badge/Twitter-@arturpodchayev-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/arturpodchayev)
+[![X](https://img.shields.io/badge/X-@arturpodchayev-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/arturpodchayev)
 
 
 

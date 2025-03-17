@@ -1,7 +1,7 @@
 name: Metrics
 on:
   schedule:
-    - cron: "0 0 * * *"  # Автообновление каждый день в 00:00 UTC
+    - cron: "0 0 * * *"  # Обновление раз в сутки
   workflow_dispatch:  # Возможность запустить вручную
 
 permissions: write-all
@@ -22,7 +22,7 @@ jobs:
           plugin_music_provider: spotify
           plugin_music_mode: playlist
           plugin_music_limit: 5
-          plugin_music_playlist: "1FulyKG2feuNE0bHGm9Al4"  # ⚠️ Изменено (раньше было plugin_music_playlist_id)
-          
-          # 📢 Новый способ передачи токена
+          plugin_music_playlist: "1FulyKG2feuNE0bHGm9Al4"  # ⚠️ ИСПРАВЛЕНО!
+
+          # 📢 Используем новый токен
           plugin_music_token: ${{ secrets.SPOTIFY_ACCESS_TOKEN }}

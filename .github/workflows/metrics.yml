@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 permissions: write-all
-<iframe src="https://open.spotify.com/embed/playlist/1FulyKG2feuNE0bHGm9Al4" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 
 
 jobs:
@@ -24,7 +24,7 @@ jobs:
           plugin_music_provider: spotify
           plugin_music_mode: playlist
           plugin_music_limit: 5
-          plugin_music_playlist_id: "2pPfRFvrdR38UO0LJix6uZ"
+          plugin_music_playlist_id: "1FulyKG2feuNE0bHGm9Al4"
 
           # 📢 ВАЖНО: Новый способ передачи токена
           plugin_music_token: ${{ secrets.SPOTIFY_ACCESS_TOKEN }}

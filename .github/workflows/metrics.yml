@@ -5,6 +5,8 @@ on:
   workflow_dispatch:
 
 permissions: write-all
+<iframe src="https://open.spotify.com/embed/playlist/1FulyKG2feuNE0bHGm9Al4" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 
 jobs:
   github-metrics:

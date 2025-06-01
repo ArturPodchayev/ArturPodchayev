@@ -8,7 +8,6 @@
 
 
 ---
-<img src="https://raw.githubusercontent.com/ArturPodchayev/ArturPodchayev/main/github-metrics.svg" alt="GitHub Metrics" />
 
 
 ## 🛠 Tech Stack:

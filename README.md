@@ -32,11 +32,11 @@ I value clean logic, scalable architecture, and fast iteration on what actually 
   <tr>
     <td width="50%" valign="top">
       <h4>🎨 Frontend & UX</h4>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma&perline=4" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma&perline=4" />
     </td>
     <td width="50%" valign="top">
       <h4>☁️ Infrastructure & AI</h4>
-      <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,linux,pytorch,tensorflow&perline=4" />
+      <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,linux&perline=4" />
     </td>
   </tr>
 </table>

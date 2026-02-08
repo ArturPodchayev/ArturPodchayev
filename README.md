@@ -4,8 +4,8 @@
   </p>
 
   <p align="center">
-    <a href="https://arturpodchaev.uz"><img src="https://img.shields.io/badge/-Website-black?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
     <a href="https://linkedin.com/in/arturpodchayev/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://arturpodchaev.uz"><img src="https://img.shields.io/badge/-Website-black?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
     <a href="https://t.me/Artur_IT_Developer"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   </p>
 </div>

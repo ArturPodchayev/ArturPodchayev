@@ -5,9 +5,9 @@
   </p>
 
  <p align="center">
-    <a href="https://linkedin.com/in/arturpodchayev/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge" /></a>
-    <a href="https://arturpodchaev.uz"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge" /></a>
-    <a href="https://t.me/Artur_IT_Developer"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge" /></a>
+    • <a href="https://linkedin.com/in/arturpodchayev/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge" /></a>
+    • <a href="https://arturpodchaev.uz"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge" /></a>
+    • <a href="https://t.me/Artur_IT_Developer"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge" /></a>
   </p>
 </div>
 

@@ -14,6 +14,7 @@
 ---
 
 ## 🚀 About
+HI! 
 I’m a **full-stack developer** focused on building **practical systems**, not tutorials
 I work with **automation, backend logic, AI tools, and experimental projects**, turning ideas into working MVPs fast
 
@@ -23,7 +24,7 @@ I work with **automation, backend logic, AI tools, and experimental projects**, 
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,python,js,ts,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=cs,python,js,ts,cpp,go" />
 </p>
 
 ### Backend & Frameworks
@@ -69,5 +70,5 @@ I work with **automation, backend logic, AI tools, and experimental projects**, 
 
 ## 🌐 Links
 - Telegram: https://t.me/Artur_IT_Developer  
-- Linked: linkedin.com/in/arturpodchayev/  
+- Linked: https://linkedin.com/in/arturpodchayev/  
 - Email: arturpodchayev@email.com

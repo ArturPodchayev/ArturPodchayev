@@ -43,6 +43,36 @@ I focus on building **high-impact practical systems**. I don't do "tutorial proj
   </tr>
 </table>
 
+---
+
+## ✍️ Latest Publications
+*Insights on Engineering, AI, and Product Development*
+
+<table width="100%">
+  <tr>
+    <td>
+      <a href="https://medium.com/@arturpodchayev">
+        <strong>How I Built a B2B Ecosystem for 10k+ Users</strong>
+      </a><br/>
+      <em>A deep dive into the architecture of Optom Uz and handling high-concurrency.</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://medium.com/@arturpodchayev">
+        <strong>AI Agents: From Theory to Production</strong>
+      </a><br/>
+      <em>Why most AI tutorials fail and how to build systems that actually ship.</em>
+    </td>
+  </tr>
+</table>
+
+<p align="right">
+  <a href="https://medium.com/@arturpodchayev">
+    <img src="https://img.shields.io/badge/Read_more_on_Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
+
 
 ## 📈 Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArturPodchayev&theme=tokyo-night&hide_border=true" />

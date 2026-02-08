@@ -4,11 +4,19 @@
   <strong>Full-stack developer</strong> · Automation · AI Tools · Product Engineering
 </p>
 
-<p align="center">
-  <a href="https://arturpodchaev.uz"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/arturpodchayev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/Artur_IT_Developer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Artur%20Podchayev&fontSize=70&animation=fadeIn" width="100%" />
+
+  <p align="center">
+    <strong>Full-Stack Engineer | AI Automation Specialist | Product Architect</strong>
+  </p>
+
+  <p align="center">
+    <a href="https://arturpodchaev.uz"><img src="https://img.shields.io/badge/-Website-black?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/arturpodchayev/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://t.me/Artur_IT_Developer"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  </p>
+</div>
 ---
 
 ## 🚀 About

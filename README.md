@@ -33,7 +33,7 @@ I care about clean logic, real use cases, and shipping over theory.
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,python,js,ts,cpp,go,html,css,bash" />
+  <img src="https://skillicons.dev/icons?i=cs,python,js,ts,cpp,go,html,css,bash&perline=9" />
 </p>
 
 ### ⚙️ Backend & Frameworks

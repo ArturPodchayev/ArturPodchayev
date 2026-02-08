@@ -6,11 +6,20 @@
     <img src="https://img.shields.io/badge/Telegram-Contact-0d1117?style=for-the-badge&logo=telegram&logoColor=58a6ff" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-stack+developer;Automation+%26+backend+systems;AI-powered+tools+and+MVPs;Shipping+over+theory" />
+<a href="https://linkedin.com/in/arturpodchayev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" />
+  </a>
+  <a href="https://leetcode.com/u/Artur_648/">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-0d1117?style=for-the-badge&logo=leetcode&logoColor=ffa116" />
+  </a>
+  <a href="https://arturpodchaev.uz">
+    <img src="https://img.shields.io/badge/Website-arturpodchaev.uz-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff" />
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-stack+developer;Automation+%26+backend+systems;AI-powered+tools+%26+MVPs;Shipping+over+theory" />
+</p>
 ---
 
 ## 🚀 About

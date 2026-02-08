@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Artur%20Podchayev&fontSize=80&animation=fadeIn&fontAlignY=45" width="100%" />
-
+  <h1>Artur Podchayev</h1>
   <br />
 
   <samp>

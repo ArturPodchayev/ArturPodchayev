@@ -2,9 +2,6 @@
 <h3 align="center">Building real systems • automation • AI • products</h3>
 
 <p align="center">
-  <a href="https://github.com/ArturPodchayev">
-    <img src="https://img.shields.io/badge/GitHub-ArturPodchayev-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" />
-  </a>
   <a href="https://t.me/Artur_IT_Developer">
     <img src="https://img.shields.io/badge/Telegram-Contact-0d1117?style=for-the-badge&logo=telegram&logoColor=58a6ff" />
   </a>

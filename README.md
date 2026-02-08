@@ -1,12 +1,12 @@
 <h1 align="center">Artur Podchayev</h1>
 
 <p align="center">
-  <strong>Full-stack developer</strong> · building real systems in <strong>automation</strong>, <strong>AI</strong>, and <strong>product engineering</strong>
+  <strong>Full-stack developer</strong> · automation · AI tools · product engineering
 </p>
 
 <p align="center">
   <a href="https://t.me/Artur_IT_Developer">
-    <img src="https://img.shields.io/badge/Telegram-Contact-0d1117?style=for-the-badge&logo=telegram&logoColor=58a6ff" />
+    <img src="https://img.shields.io/badge/Telegram-@Artur__IT__Developer-0d1117?style=for-the-badge&logo=telegram&logoColor=58a6ff" />
   </a>
   <a href="https://linkedin.com/in/arturpodchayev/">
     <img src="https://img.shields.io/badge/LinkedIn-arturpodchayev-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" />
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LeetCode-Artur__648-0d1117?style=for-the-badge&logo=leetcode&logoColor=ffa116" />
   </a>
   <a href="https://arturpodchaev.uz">
-    <img src="https://img.shields.io/badge/Website-arturpodchaev.uz-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff" />
+    <img src="https://img.shields.io/badge/Website-arturpodchaev.uz-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff" />
   </a>
 </p>
 

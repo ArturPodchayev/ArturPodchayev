@@ -19,17 +19,6 @@
   </a>
 </p>
 
-<br />
-
-<!-- One-column links (clean, non-cringe) -->
-<p>
-  🔗 <strong>Links</strong><br/>
-  • Telegram — <a href="https://t.me/Artur_IT_Developer">t.me/yourtelegram</a><br/>
-  • LinkedIn — <a href="https://linkedin.com/in/arturpodchayev/">linkedin.com/in/arturpodchayev</a><br/>
-  • LeetCode — <a href="https://leetcode.com/u/Artur_648/">leetcode.com/u/Artur_648</a><br/>
-  • Website — <a href="https://arturpodchaev.uz">arturpodchaev.uz</a>
-</p>
-
 ---
 
 ## 🚀 About

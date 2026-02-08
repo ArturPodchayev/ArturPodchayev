@@ -88,10 +88,3 @@ I care about clean logic, real use cases, and shipping over theory.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ArturPodchayev&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🌐 Links
-- Telegram: https://t.me/Artur_IT_Developer  
-- Linked: https://linkedin.com/in/arturpodchayev/  
-- Email: arturpodchayev@email.com

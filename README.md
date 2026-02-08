@@ -1,30 +1,42 @@
 <h1 align="center">Artur Podchayev</h1>
-<h3 align="center">Building real systems • automation • AI • products</h3>
+
+<p align="center">
+  <strong>Full-stack developer</strong> · building real systems in <strong>automation</strong>, <strong>AI</strong>, and <strong>product engineering</strong>
+</p>
 
 <p align="center">
   <a href="https://t.me/Artur_IT_Developer">
     <img src="https://img.shields.io/badge/Telegram-Contact-0d1117?style=for-the-badge&logo=telegram&logoColor=58a6ff" />
   </a>
-</p>
-<a href="https://linkedin.com/in/arturpodchayev/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" />
+  <a href="https://linkedin.com/in/arturpodchayev/">
+    <img src="https://img.shields.io/badge/LinkedIn-arturpodchayev-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" />
   </a>
   <a href="https://leetcode.com/u/Artur_648/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-0d1117?style=for-the-badge&logo=leetcode&logoColor=ffa116" />
+    <img src="https://img.shields.io/badge/LeetCode-Artur__648-0d1117?style=for-the-badge&logo=leetcode&logoColor=ffa116" />
   </a>
   <a href="https://arturpodchaev.uz">
     <img src="https://img.shields.io/badge/Website-arturpodchaev.uz-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-stack+developer;Automation+%26+backend+systems;AI-powered+tools+%26+MVPs;Shipping+over+theory" />
+<br />
+
+<!-- One-column links (clean, non-cringe) -->
+<p>
+  🔗 <strong>Links</strong><br/>
+  • Telegram — <a href="https://t.me/Artur_IT_Developer">t.me/yourtelegram</a><br/>
+  • LinkedIn — <a href="https://linkedin.com/in/arturpodchayev/">linkedin.com/in/arturpodchayev</a><br/>
+  • LeetCode — <a href="https://leetcode.com/u/Artur_648/">leetcode.com/u/Artur_648</a><br/>
+  • Website — <a href="https://arturpodchaev.uz">arturpodchaev.uz</a>
 </p>
+
 ---
 
 ## 🚀 About
-I’m a full-stack developer focused on building practical systems rather than tutorials. 
-I work with backend logic, automation, and AI-powered tools, turning ideas into working MVPs quickly
+I’m a full-stack developer focused on building real, practical systems — not tutorial projects.  
+I work across backend, automation, and AI tools, shipping MVPs fast and iterating on what matters.
+
+I care about clean logic, real use cases, and shipping over theory.
 
 ---
 

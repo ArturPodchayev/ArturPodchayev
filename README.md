@@ -51,8 +51,3 @@ I focus on building **high-impact practical systems**. I don't do "tutorial proj
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ArturPodchayev&theme=tokyonight&hide_border=true" />
 </p>
-
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it." />
-</div>

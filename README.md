@@ -5,11 +5,6 @@
       <font size="4">Full-Stack Engineer • AI Automation Specialist • Product Architect</font>
     </b>
   </samp>
-  <p align="center">
-    <a href="https://linkedin.com/in/arturpodchayev/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge" /></a>
-    <a href="https://arturpodchaev.uz"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge" /></a>
-    <a href="https://t.me/Artur_IT_Developer"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge" /></a>
-  </p>
 </div>
 
 ## ⚡ About Me
@@ -85,3 +80,9 @@ I focus on building **high-impact practical systems**. I don't do "tutorial proj
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ArturPodchayev&theme=tokyonight&hide_border=true" />
 </p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/arturpodchayev/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge" /></a>
+    <a href="https://arturpodchaev.uz"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge" /></a>
+    <a href="https://t.me/Artur_IT_Developer"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge" /></a>
+  </p>

@@ -1,11 +1,8 @@
 <div align="center">
   <h1>Artur Podchayev</h1>
-  <br />
-
   <samp>
     <b>
-      <font size="6">Full-Stack Engineer</font><br />
-      <font size="4">AI Automation Specialist • Product Architect</font>
+      <font size="4">Full-Stack Engineer • AI Automation Specialist • Product Architect</font>
     </b>
   </samp>
 

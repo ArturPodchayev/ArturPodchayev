@@ -1,12 +1,4 @@
 <h1 align="center">Artur Podchayev</h1>
-
-<p align="center">
-  <strong>Full-stack developer</strong> · Automation · AI Tools · Product Engineering
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Artur%20Podchayev&fontSize=70&animation=fadeIn" width="100%" />
-
   <p align="center">
     <strong>Full-Stack Engineer | AI Automation Specialist | Product Architect</strong>
   </p>

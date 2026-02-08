@@ -43,6 +43,14 @@ I value clean logic, scalable architecture, and fast iteration on what actually 
 
 ---
 
+### 🚀 Featured Systems
+• VR Chemistry Lab — immersive educational system  
+• Optom Uz — large-scale B2B platform  
+• Automation Tools — scraping & workflow systems  
+• Freelance Parser — real-time job aggregation
+
+---
+
 ## ✍️ Publications
 *Engineering insights and architecture deep-dives on [Medium](https://medium.com/@arturpodchayev)*
 

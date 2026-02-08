@@ -14,9 +14,8 @@
 ---
 
 ## 🚀 About
-HI! 
-I’m a **full-stack developer** focused on building **practical systems**, not tutorials
-I work with **automation, backend logic, AI tools, and experimental projects**, turning ideas into working MVPs fast
+I’m a full-stack developer focused on building practical systems rather than tutorials. 
+I work with backend logic, automation, and AI-powered tools, turning ideas into working MVPs quickly
 
 ---
 

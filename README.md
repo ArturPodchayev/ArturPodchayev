@@ -5,17 +5,14 @@
 </p>
 
 <p align="center">
-  <strong>
-    <a href="https://arturpodchaev.uz">arturpodchaev.uz</a>
-  </strong>
-  <br/>
   <a href="https://linkedin.com/in/arturpodchayev/">LinkedIn</a> ·
   <a href="https://github.com/ArturPodchayev">GitHub</a> ·
   <a href="https://leetcode.com/u/Artur_648/">LeetCode</a> ·
+  <a href="https://arturpodchaev.uz">Website</a> ·
   <a href="https://t.me/Artur_IT_Developer">Telegram</a> ·
   <a href="https://x.com/arturpodchayev">X</a>
 </p>
->
+
 
 ---
 

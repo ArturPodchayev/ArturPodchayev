@@ -22,30 +22,46 @@ I work with **automation, backend logic, AI tools, and experimental projects**, 
 
 ## 🧠 Tech Stack
 
-### Languages
+### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,python,js,ts,cpp,go" />
+  <img src="https://skillicons.dev/icons?i=cs,python,js,ts,cpp,go,html,css,bash" />
 </p>
 
-### Backend & Frameworks
+### ⚙️ Backend & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,fastapi" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,fastapi,django,flask" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,vite" />
 </p>
 
-### Databases & Tools
+### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis" />
 </p>
 
-### Other
+### ☁️ DevOps & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,linux,aws" />
 </p>
+
+### 🤖 AI / Data
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+### 🛠️ Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
+</p>
+
+### 🧪 Other / Experimental
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,arduino,raspberrypi" />
+</p>
+
 
 ---
 

@@ -5,7 +5,7 @@
   </p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/arturpodchayev/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/arturpodchayev/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://arturpodchaev.uz"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
     <a href="https://t.me/Artur_IT_Developer"><img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   </p>

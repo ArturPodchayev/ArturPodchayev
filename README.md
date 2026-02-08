@@ -89,6 +89,6 @@ I focus on building **high-impact practical systems**. I don't do "tutorial proj
   <a href="https://linkedin.com/in/arturpodchayev/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge" /></a>
   <a href="https://arturpodchaev.uz"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge" /></a>
   <a href="https://t.me/Artur_IT_Developer"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge" /></a>
-  <a href="https://x.com/arturpodchayev"><img src="https://img.shields.io/badge/X_TWITTER-000000?style=for-the-badge" /></a>
+  <a href="https://x.com/arturpodchayev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge" /></a>
   <a href="https://leetcode.com/u/Artur_648/"><img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge" /></a>
 </div>

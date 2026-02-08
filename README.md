@@ -1,4 +1,16 @@
- <h3>🚀 Full-Stack Engineer | AI Automation | Product Architect</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Artur%20Podchayev&fontSize=80&animation=fadeIn&fontAlignY=45" width="100%" />
+
+  <br />
+
+  <samp>
+    <b>
+      <font size="6">Full-Stack Engineer</font><br />
+      <font size="4">AI Automation Specialist • Product Architect</font>
+    </b>
+  </samp>
+
+  <br /><br />
 
   <p align="center">
     <a href="https://linkedin.com/in/arturpodchayev/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge" /></a>
@@ -6,7 +18,6 @@
     <a href="https://t.me/Artur_IT_Developer"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge" /></a>
   </p>
 </div>
-
 ---
 
 ## ⚡ About Me
@@ -45,8 +56,6 @@ I focus on building **high-impact practical systems**. I don't do "tutorial proj
 
 ---
 
----
-
 ## ✍️ Publications
 *Engineering insights and architecture deep-dives on [Medium](https://medium.com/@arturpodchayev)*
 
@@ -74,6 +83,9 @@ I focus on building **high-impact practical systems**. I don't do "tutorial proj
     <img src="https://img.shields.io/badge/SEE_ALL_ARTICLES-000000?style=for-the-badge" />
   </a>
 </p>
+
+---
+
 ## 📈 Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArturPodchayev&theme=tokyo-night&hide_border=true" />
 

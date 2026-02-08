@@ -81,8 +81,27 @@ I focus on building **high-impact practical systems**. I don't do "tutorial proj
   <img src="https://streak-stats.demolab.com?user=ArturPodchayev&theme=tokyonight&hide_border=true" />
 </p>
 
-  <p align="center">
-    <a href="https://linkedin.com/in/arturpodchayev/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge" /></a>
-    <a href="https://arturpodchaev.uz"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge" /></a>
-    <a href="https://t.me/Artur_IT_Developer"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge" /></a>
+---
+<div align="center">
+  <h2>🤝 Let's Connect</h2>
+  <p>I’m always open to discussing <b>system architecture</b>, <b>AI automation</b>, or <b>high-impact product engineering</b>.</p>
+
+  <a href="https://linkedin.com/in/arturpodchayev/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge" /></a>
+  <a href="https://arturpodchaev.uz"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge" /></a>
+  <a href="https://t.me/Artur_IT_Developer"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge" /></a>
+  <a href="https://x.com/arturpodchayev"><img src="https://img.shields.io/badge/X_TWITTER-000000?style=for-the-badge" /></a>
+  <a href="https://leetcode.com/u/Artur_648/"><img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge" /></a>
+
+  <br/><br/>
+
+  <p>
+    Direct Line: <a href="mailto:artur.podchaev@gmail.com">artur.podchaev@gmail.com</a>
   </p>
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it." width="100%" />
+  
+  <br/>
+  <p align="right">
+    <a href="#top">🔼 Back to Top</a>
+  </p>
+</div>

@@ -45,35 +45,35 @@ I focus on building **high-impact practical systems**. I don't do "tutorial proj
 
 ---
 
-## ✍️ Latest Publications
-*Insights on Engineering, AI, and Product Development*
+---
+
+## ✍️ Publications
+*Engineering insights and architecture deep-dives on [Medium](https://medium.com/@arturpodchayev)*
 
 <table width="100%">
   <tr>
     <td>
-      <a href="https://medium.com/@arturpodchayev">
-        <strong>How I Built a B2B Ecosystem for 10k+ Users</strong>
+      <a href="https://medium.com/@arturpodchayev/why-technical-skills-alone-are-not-enough-the-role-of-systems-thinking-in-technology-19aa7206fd44">
+        <strong>Why Technical Skills Alone Are Not Enough</strong>
       </a><br/>
-      <em>A deep dive into the architecture of Optom Uz and handling high-concurrency.</em>
+      <em>The role of Systems Thinking in technology and why high-level architecture beats raw coding</em>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://medium.com/@arturpodchayev">
-        <strong>AI Agents: From Theory to Production</strong>
+      <a href="https://medium.com/@arturpodchayev/what-will-it-mean-to-be-a-software-engineer-by-2030-0a4df44345dd">
+        <strong>Software Engineering in 2030</strong>
       </a><br/>
-      <em>Why most AI tutorials fail and how to build systems that actually ship.</em>
+      <em>Predicting the evolution of the craft and how to stay relevant in an AI-driven ecosystem</em>
     </td>
   </tr>
 </table>
 
 <p align="right">
   <a href="https://medium.com/@arturpodchayev">
-    <img src="https://img.shields.io/badge/Read_more_on_Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/SEE_ALL_ARTICLES-000000?style=for-the-badge" />
   </a>
 </p>
-
-
 ## 📈 Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArturPodchayev&theme=tokyo-night&hide_border=true" />
 

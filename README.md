@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Artur Podchayev</h1>
-  <samp>
     <b>
       <font size="4">Full-Stack Engineer • AI Automation Specialist • Product Architect</font>
     </b>
@@ -12,7 +11,6 @@ I build high-impact, practical systems — not tutorial projects
 My focus is backend engineering, automation, and AI-driven tools that ship as production-ready MVPs
 
 I value clean logic, scalable architecture, and fast iteration on what actually matters
-
 
 ---
 
@@ -83,6 +81,8 @@ I value clean logic, scalable architecture, and fast iteration on what actually 
 
 ## 📈 Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArturPodchayev&theme=tokyo-night&hide_border=true" />
+
+---
 
 ## 📊 Stats
 <p align="center">

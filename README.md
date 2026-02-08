@@ -8,11 +8,11 @@
 </div>
 
 ## ⚡ About Me
-I focus on building **high-impact practical systems**. I don't do "tutorial projects"—I ship production-ready MVPs. I specialize in backend automation, AI-driven tools, and scalable architecture
+I build high-impact, practical systems — not tutorial projects  
+My focus is backend engineering, automation, and AI-driven tools that ship as production-ready MVPs
 
-- 🛠️ **Engineering:** Clean logic over complex theory
-- 🚀 **Performance:** Fast iteration and efficient resource management
-- 🌍 **Location:** Based in Tashkent, working globally
+I value clean logic, scalable architecture, and fast iteration on what actually matters
+
 
 ---
 

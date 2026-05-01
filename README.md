@@ -42,6 +42,7 @@ I value clean logic, scalable architecture, and fast iteration on what actually 
 ---
 
 ### 🚀 Featured Systems
+**[TonSense](https://tonsense.app)** — AI-powered DeFi dashboard for TON blockchain. On-chain staking via Tonstakers, swap via Ston.fi DEX, AI Agent with live market data, DCA calculator, smart Telegram alerts. Built as Telegram Mini App. Stack: Next.js 14, TypeScript, DeepSeek API, TON Connect, Upstash Redis
 • VR Chemistry Lab — immersive educational system  
 • Optom Uz — large-scale B2B platform  
 • Automation Tools — scraping & workflow systems  
